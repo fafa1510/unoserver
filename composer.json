@@ -1,5 +1,5 @@
 {
-    "name": "happydemon/unoserver",
+    "name": "fafa1510/unoserver",
     "description": "Laravel wrapper to interact with UnoServer, which allows you to convert documents using LibreOffice.",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://github.com/happyDemon"
         }
     ],
-    "homepage": "https://github.com/happydemon/unoserver",
+    "homepage": "https://github.com/fafa1510/unoserver",
     "keywords": ["Laravel", "UnoServer", "unoconvert", "libreoffice", "openoffice"],
     "require": {
         "php": "7.4|~8",
