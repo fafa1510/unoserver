@@ -1,0 +1,3 @@
+#! /bin/bash
+
+{{python}} -m unoserver.server --interface {{server}} --port {{port}} --executable {{executable}} $@

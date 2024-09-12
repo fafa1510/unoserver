@@ -1,0 +1,3 @@
+#! /bin/bash
+
+{{python}} -m unoserver.converter --interface {{server}} --port {{port}} $@
